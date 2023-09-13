@@ -1,7 +1,7 @@
 # oAuth2.0-implementation
 
-* [What Is OAuth?](#what-is-oauth?)
-* [How does OAuth Work?](#how-does-oauth-work?)
+* [What Is OAuth?](#what-is-oauth)
+* [How does OAuth Work?](#how-does-oauth-work)
 * [Setup](#setup)
 * [Create Social Login with Socialite](#create-social-login-with-socialite)
 
